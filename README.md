@@ -1,5 +1,6 @@
 # LLaVaMed_RAG
 Finetuning of LLaVa-Med with VQA_RAD dataset with added RAG for enhanced generations.
+Dataset line: https://huggingface.co/datasets/flaviagiammarino/vqa-rad
 
 ### Retrieval performance for image retrieval
 <img width="955" alt="retriever_demo_2" src="https://github.com/user-attachments/assets/950276f9-d062-4a53-942f-c910a549e193">
